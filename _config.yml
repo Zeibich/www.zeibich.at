@@ -16,8 +16,8 @@
 title: Zeibich GmbH
 email: office@zeibich.at
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zeibich.github.io/www.zeibich.at" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/www.zeibich.at" # the subpath of your site, e.g. /blog
+url: "https://zeibich.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:
 
