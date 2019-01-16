@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![Zeibich_logo](/assets/zeibich logo 2c_transparent.png)
