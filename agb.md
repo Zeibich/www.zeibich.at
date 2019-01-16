@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Allgemeine Geschäftsbedingungen
+title: AGB
 permalink: /agb/
 ---
 
