@@ -1,0 +1,43 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col one-half">
+      <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col one-half">
+		{%- if site.description -%}
+        <p>{{- site.description | escape -}}</p>
+		{%- endif -%}
+      </div>
+
+      <div class="social-links">
+        {%- include social.html -%}
+      </div>
+    </div>
+
+  </div>
+  <div class="wrapper">
+	<div class="footer" id="footer" style="text-align:center;font-size:12px">
+		 <span style="float:left"><a href="/kontakt" style="color:grey">Kontakt</a></span>
+		 <a href="/impressum" style="color:grey">Impressum</a>
+		 <span style="float:right"><a href="/agb" style="color:grey">AGB</a></span>
+	</div>
+</div>
+
+</footer>
