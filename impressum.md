@@ -6,7 +6,7 @@ permalink: /impressum/
 
 Verantwortlich für den Inhalt dieser Website 
 
-Tischlerei Zeibich Ges.m.b.H.
+Tischlerei Zeibich Ges.m.b.H.<br>
 Geschäftsführer: Michael Sonnek & Walter Stanek
 
 Seeböckgasse 39
@@ -14,7 +14,7 @@ A-1150 Wien
 Tel.: +43 1 486 36 49
 Fax.: +43 1 486 36 49-22
 
-Umsatzsteuer-Identifikationsnummer: ATU14644107
+Umsatzsteuer-Identifikationsnummer: ATU14644107<br>
 Firmenbuchnummer: FN B-51.835 D, Handelsgericht Wien
 
 
