@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Mitarbeiter
-permalink: /mitarbeiter/
+permalink: /team/
 ---
 
 <div class="divTable blueTable">
 <div class="sitz">
 <div class="divTableRow">
-<div class="divTableHead"><h2>Werk Neutal</h2></div>
+<div class="standort">Werk Neutal</div>
 </div>
 </div>
 <div class="divTableBody">
@@ -50,7 +50,7 @@ permalink: /mitarbeiter/
 <div class="divTable blueTable">
 <div class="sitz">
 <div class="divTableRow">
-<div class="divTableHead"><h2>Büro Wien</h2></div>
+<div class="standort">Büro Wien</div>
 </div>
 </div>
 <div class="divTableBody">
@@ -76,7 +76,7 @@ permalink: /mitarbeiter/
 <div class="divTable blueTable" style="margin-bottom:30px">
 <div class="sitz">
 <div class="divTableRow">
-<div class="divTableHead"><h2>Geschäftsführung</h2></div>
+<div class="standort">Geschäftsführung</div>
 </div>
 </div>
 <div class="divTableBody">

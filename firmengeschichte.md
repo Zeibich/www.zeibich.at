@@ -40,7 +40,9 @@ Weiterswurde ein neues Kommunikationsprogramm und ein automatisches Zeiterfassun
 <h1>Einblick in die automatisierte Produktion der Firma Zeibich in Neutal</h1>
 
  
- <video height="768" width="1024" controls preload="none">
+<video height="768" width="1024" controls preload="none">
 	<source src = "\assets\videos\zeibich.mp4" type="video/mp4">
 	Ihr Browser unterstützt diese Videoformat nicht
 </video>
+<br>
+Hier können Sie sich das Video auch ["herunterladen"](/assets/videos/zeibich_720.mp4).
