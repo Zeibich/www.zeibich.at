@@ -45,4 +45,4 @@ Weiterswurde ein neues Kommunikationsprogramm und ein automatisches Zeiterfassun
 	Ihr Browser unterstützt diese Videoformat nicht
 </video>
 <br>
-Hier können Sie sich das Video auch ["herunterladen"](/assets/videos/zeibich_720.mp4).
+Hier können Sie sich das Video auch <a href="/assets/videos/zeibich_720.mp4" download>"herunterladen"
