@@ -37,10 +37,25 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: 0;
 }
 
+.name {
+	margin-bottom: 0;
+	font-size: 32px;
+}
+	
 
+div.sitz {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-size: 15px;
+}
+
+div.bez {
+	font-size: 22px;
+}
+	
 
 /**
  * `main` element
@@ -182,6 +197,7 @@ pre {
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
   @extend %clearfix;
+  
 
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
@@ -190,6 +206,7 @@ pre {
     padding-left: $spacing-unit / 2;
   }
 }
+
 
 
 
@@ -223,7 +240,9 @@ pre {
   }
 }
 
-
+.member {
+	margin-bottom: 0px;
+}
 
 /**
  * Tables
