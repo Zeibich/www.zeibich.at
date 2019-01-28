@@ -10,7 +10,7 @@ Tischlerei Zeibich Ges.m.b.H.
 Geschäftsführer: Michael Sonnek & Walter Stanek
 
 <p>Seeböckgasse 39
-A-1150 Wien
+A-1160 Wien
 Tel.: +43 1 486 36 49
 Fax.: +43 1 486 36 49-22</p><br>
 
