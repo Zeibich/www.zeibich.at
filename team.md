@@ -108,7 +108,7 @@ permalink: /team/
 <div class="name">Darina Sonnek</div>
 <div class="bez">Assistenz der Geschäftsführung Wien</div>
 <div class="divTableCell"><img src="/assets/pictures/people/dsonnek.jpg" alt="Frau Sonnek" vspace="10"></div>
-<div class="divTableCell">Tel.: +43 664 216 25 99</div>
+<div class="divTableCell">Tel.: +43 (0)1 486 36 49-12</div>
 <div class="divTableCell">E-Mail: darina.sonnek@zeibich.at</div>
 </div>
 </div>
