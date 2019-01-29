@@ -100,7 +100,9 @@ permalink: /team/
 <div class="name">Michael Sonnek</div>
 <div class="bez">Geschäftsführung Wien</div>
 <div class="divTableCell"><img src="/assets/pictures/people/sonnek.jpg" alt="Herr Sonnek" vspace="10"></div>
-
+<div class="divTableCell">Tel.: +43 (0)1 486 36 49-13</div>
+<div class="divTableCell">Mobil: +43 664 85 44 920</div>
+<div class="divTableCell">E-Mail: michael.sonnek@zeibich.at</div>
 </div>
 </div>
 <div class="divTableBody" style="margin-top:20px">
