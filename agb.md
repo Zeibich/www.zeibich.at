@@ -1,8 +1,9 @@
 ---
 layout: page
-title: AGB
+title: AGB & DSGVO
 permalink: /agb/
 ---
 
 AGB ["Downloadversion"](/assets/agb.pdf)
+DSGVO ["Downloadversion"](/assets/dsgvo.pdf)
 
