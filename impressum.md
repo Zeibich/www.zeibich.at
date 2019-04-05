@@ -4,32 +4,47 @@ title: Impressum
 permalink: /impressum/
 ---
 
-Verantwortlich für den Inhalt dieser Website<br> 
+Verantwortlich für den Inhalt dieser Website: Tischlerei Zeibich Ges.m.b.H.
+<br>
 
-Tischlerei Zeibich Ges.m.b.H.
-Geschäftsführer: Michael Sonnek & Walter Stanek
+Informationspflicht gem § 5 ECG, § 15 UBG, § 63 GewO 1994
+Offenlegungspflicht gem § 25 MedienG
 
-<p>Seeböckgasse 39
+
+<p>Tischlerei Zeibich Ges.m.b.H.
+Seeböckgasse 39
 A-1160 Wien
 Tel.: +43 1 486 36 49
-Fax.: +43 1 486 36 49-22</p><br>
+Fax.: +43 1 486 36 49-22
+E-Mail: office@zeibich.at</p><br>
 
-Umsatzsteuer-Identifikationsnummer: ATU14644107
-Firmenbuchnummer: FN B-51.835 D, Handelsgericht Wien<br>
+Firmenbuchnummer: FN B-51.835 D
+Firmenbuchgericht: Handelsgericht Wien
+Firmensitz: Seeböckgasse 39, 1160 Wien
+UID-Nummer: ATU14644107
+Geschäftsführer: Michael Sonnek, Walter Stanek
+Beteiligungsverhältnisse der Gesellschafter: Michael Sonnek 50%, Walter Stanek 50%
+<br>
 
-Haftungsausschluss:<br>
-
-1. Inhalt des Onlineangebots<br>
-Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Autor, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen, sofern seitens des Autors kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt. Alle Angebote sind freibleibend und unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
-
-2. Verweise und Links<br>
-Bei direkten oder indirekten Verweisen auf fremde Webseiten („Hyperlinks“), die außerhalb des Verantwortungsbereiches des Autors liegen, würde eine Haftungsverpflichtung ausschließlich in dem Fall in Kraft treten, in dem der Autor von den Inhalten Kenntnis hat und es ihm technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern. Der Autor erklärt hiermit ausdrücklich, dass zum Zeitpunkt der Linksetzung keine illegalen Inhalte auf den zu verlinkenden Seiten erkennbar waren. Auf die aktuelle und zukünftige Gestaltung, die Inhalte oder die Urheberschaft der verlinkten/verknüpften Seiten hat der Autor keinerlei Einfluss. Deshalb distanziert er sich hiermit ausdrücklich von allen Inhalten aller verlinkten/verknüpften Seiten, die nach der Linksetzung verändert wurden. Diese Feststellung gilt für alle innerhalb des eigenen Internetangebotes gesetzten Links und Verweise sowie für Fremdeinträge in vom Autor eingerichteten Gästebüchern, Diskussionsforen, Linkverzeichnissen, Mailinglisten und in allen anderen Formen von Datenbanken, auf deren Inhalt externe Schreibzugriffe möglich sind. Für illegale, fehlerhafte oder unvollständige Inhalte und insbesondere für Schäden, die aus der Nutzung oder Nichtnutzung solcherart dargebotener Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der über Links auf die jeweilige Veröffentlichung lediglich verweist.
-
-3. Urheber- und Kennzeichenrecht<br>
-Der Autor ist bestrebt, in allen Publikationen die Urheberrechte der verwendeten Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu beachten, von ihm selbst erstellte Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente, Videosequenzen und Texte zurückzugreifen. Alle innerhalb des Internetangebotes genannten und ggf durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind! Das Copyright für veröffentlichte, vom Autor selbst erstellte Objekte bleibt allein beim Autor der Seiten. Eine Vervielfältigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung des Autors nicht gestattet.
-
-4. Datenschutz<br>
-Sofern innerhalb des Internetangebotes die Möglichkeit zur Eingabe persönlicher oder geschäftlicher Daten (E-Mail-Adressen, Namen, Anschriften) besteht, so erfolgt die Preisgabe dieser Daten seitens des Nutzers auf ausdrücklich freiwilliger Basis. Die Inanspruchnahme und Bezahlung aller angebotenen Dienste ist - soweit technisch möglich und zumutbar - auch ohne Angabe solcher Daten bzw unter Angabe anonymisierter Daten oder eines Pseudonyms gestattet. Die Nutzung der im Rahmen des Impressums (hier: Kontakt) oder vergleichbarer Angaben veröffentlichten Kontaktdaten wie Postanschriften, Telefon- und Faxnummern sowie E-Mail-Adressen durch Dritte zur Übersendung von nicht ausdrücklich angeforderten Informationen ist nicht gestattet. Rechtliche Schritte gegen die Versender von so genannten Spam-Mails bei Verstößen gegen dieses Verbot sind ausdrücklich vorbehalten.
+Unternehmensgegenstand: Tischlerei
+Kammerzugehörigkeit: WKO, Landesinnungen Wien und Burgenland
+Standort der Gewerbeberechtigung: Wien, Oberpullendorf
+Gewerbebehörde: Magistrat der Stadt Wien, Bezirkshauptmannschaft Oberpullendorf
+Verleihungsstaat: Österreich
+Gewerbe- und berufsrechtliche Vorschriften: GewO [www.ris.bka.gv.at](http://www.ris.bka.gv.at/)
 
 
+# Haftungsausschluss:<br>
+
+## Inhalte des Online-Angebots<br>
+Die Tischlerei Zeibich Ges.m.b.H. übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der auf dieser Website bereitgestellten Informationen. Sollten Sie problematische oder rechtswidrige Inhalte auf dieser Website bemerken, bitten wir, diese an die im Impressum genannte Kontaktmöglichkeit  zu melden. Die Tischlerei Zeibich Ges.m.b.H. behält sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung vorübergehend oder endgültig einzustellen. 
+
+## Verweise und Links<br>
+Die Tischlerei Zeibich Ges.m.b.H. ist nicht verantwortlich für den Inhalt von Webseiten, auf die im Rahmen dieser Website durch Linksetzung verwiesen wird. Für illegale, fehlerhafte oder unvollständige Inhalte auf Webseiten, auf dies verwiesen wird, sowie für Schäden, die aus der Nutzung solcher Informationen entstehen, haftet allein der Anbieter der Seite, auf die verwiesen wird. Sollten Sie problematische oder rechtswidrige Links oder Verweise bemerken, bitten wir Sie, diese an die im Impressum genannte Kontaktmöglichkeit zu melden. 
+
+## Urheberrecht<br>
+Alle Inhalte dieser Website (Grafiken, Tondokumente, Videosequenzen, Texte) unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweils eingetragenen Eigentümer. Das Copyright für von der Tischlerei Zeibich Ges.m.b.H. selbst erstellte und auf dieser Website veröffentlichte Objekte bleibt allein bei dieser. Die Vervielfältigung oder Verwendung solcher Objekte ist nur mit ausdrücklicher Zustimmung der Tischlerei Zeibich Ges.m.b.H. gestattet. Die unerlaubte Nutzung von Teilen der Seite oder des gesamten Inhalts wird rechtlich verfolgt. 
+
+## Bildernachweis<br>
+Die auf dieser Website veröffentlichten Grafiken sind urheberrechtlich geschützt. Die Bilderrechte liegen bei der Tischlerei Zeibich Ges.m.b.H.
 
