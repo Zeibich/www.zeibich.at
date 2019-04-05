@@ -4,17 +4,17 @@ title: Impressum
 permalink: /impressum/
 ---
 
-Verantwortlich für den Inhalt dieser Website: Tischlerei Zeibich Ges.m.b.H.
+<p>Verantwortlich für den Inhalt dieser Website: Tischlerei Zeibich Ges.m.b.H.
 
 
 
-Informationspflicht gem § 5 ECG, § 15 UBG, § 63 GewO 1994
+<p>Informationspflicht gem § 5 ECG, § 15 UBG, § 63 GewO 1994
 
 Offenlegungspflicht gem § 25 MedienG
 
 
 
-Tischlerei Zeibich Ges.m.b.H.
+<p>Tischlerei Zeibich Ges.m.b.H.
 
 Seeböckgasse 39
 
@@ -28,7 +28,7 @@ E-Mail: office@zeibich.at
 
 
 
-Firmenbuchnummer: FN B-51.835 D
+<p>Firmenbuchnummer: FN B-51.835 D
 
 Firmenbuchgericht: Handelsgericht Wien
 
@@ -42,7 +42,7 @@ Beteiligungsverhältnisse der Gesellschafter: Michael Sonnek 50%, Walter Stanek 
 
 
 
-Unternehmensgegenstand: Tischlerei
+<p>Unternehmensgegenstand: Tischlerei
 
 Kammerzugehörigkeit: WKO, Landesinnungen Wien und Burgenland
 
