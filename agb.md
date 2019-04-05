@@ -5,5 +5,5 @@ permalink: /agb/
 ---
 
 AGB ["Downloadversion"](/assets/agb.pdf)<br>
-DSGVO ["Downloadversion"](/assets/dsgvo.pdf)
+Datenschutzerklärung ["Downloadversion"](/assets/datenschutzerklaerung.pdf)
 
