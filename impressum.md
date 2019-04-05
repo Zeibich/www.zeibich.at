@@ -4,32 +4,52 @@ title: Impressum
 permalink: /impressum/
 ---
 
-Verantwortlich für den Inhalt dieser Website: Tischlerei Zeibich Ges.m.b.H.<br>
-
-Informationspflicht gem § 5 ECG, § 15 UBG, § 63 GewO 1994<br>
-Offenlegungspflicht gem § 25 MedienG<br>
+Verantwortlich für den Inhalt dieser Website: Tischlerei Zeibich Ges.m.b.H.
 
 
-<p>Tischlerei Zeibich Ges.m.b.H.<br>
-Seeböckgasse 39<br>
-A-1160 Wien<br>
-Tel.: +43 1 486 36 49<br>
-Fax.: +43 1 486 36 49-22<br>
-E-Mail: office@zeibich.at</p><br>
+Informationspflicht gem § 5 ECG, § 15 UBG, § 63 GewO 1994
 
-Firmenbuchnummer: FN B-51.835 D<br>
-Firmenbuchgericht: Handelsgericht Wien<br>
-Firmensitz: Seeböckgasse 39, 1160 Wien<br>
-UID-Nummer: ATU14644107<br>
-Geschäftsführer: Michael Sonnek, Walter Stanek<br>
-Beteiligungsverhältnisse der Gesellschafter: Michael Sonnek 50%, Walter Stanek 50%<br>
+Offenlegungspflicht gem § 25 MedienG
 
-Unternehmensgegenstand: Tischlerei<br>
-Kammerzugehörigkeit: WKO, Landesinnungen Wien und Burgenland<br>
-Standort der Gewerbeberechtigung: Wien, Oberpullendorf<br>
-Gewerbebehörde: Magistrat der Stadt Wien, Bezirkshauptmannschaft Oberpullendorf<br>
-Verleihungsstaat: Österreich<br>
-Gewerbe- und berufsrechtliche Vorschriften: GewO [(www.ris.bka.gv.at)](http://www.ris.bka.gv.at/)<br>
+
+Tischlerei Zeibich Ges.m.b.H.
+
+Seeböckgasse 39
+
+A-1160 Wien
+
+Tel.: +43 1 486 36 49
+
+Fax.: +43 1 486 36 49-22
+
+E-Mail: office@zeibich.at
+
+
+Firmenbuchnummer: FN B-51.835 D
+
+Firmenbuchgericht: Handelsgericht Wien
+
+Firmensitz: Seeböckgasse 39, 1160 Wien
+
+UID-Nummer: ATU14644107
+
+Geschäftsführer: Michael Sonnek, Walter Stanek
+
+Beteiligungsverhältnisse der Gesellschafter: Michael Sonnek 50%, Walter Stanek 50%
+
+
+Unternehmensgegenstand: Tischlerei
+
+Kammerzugehörigkeit: WKO, Landesinnungen Wien und Burgenland
+
+Standort der Gewerbeberechtigung: Wien, Oberpullendorf
+
+Gewerbebehörde: Magistrat der Stadt Wien, Bezirkshauptmannschaft Oberpullendorf
+
+Verleihungsstaat: Österreich
+
+Gewerbe- und berufsrechtliche Vorschriften: GewO [(www.ris.bka.gv.at)](http://www.ris.bka.gv.at/)
+
 
 
 ## Haftungsausschluss:<br>
