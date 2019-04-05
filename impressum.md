@@ -11,7 +11,7 @@ Verantwortlich für den Inhalt dieser Website: Tischlerei Zeibich Ges.m.b.H.
 <p>Informationspflicht gem § 5 ECG, § 15 UBG, § 63 GewO 1994
 
 Offenlegungspflicht gem § 25 MedienG
-
+</p>
 
 
 <p>Tischlerei Zeibich Ges.m.b.H.
@@ -25,7 +25,7 @@ Tel.: +43 1 486 36 49
 Fax.: +43 1 486 36 49-22
 
 E-Mail: office@zeibich.at
-
+</p>
 
 
 <p>Firmenbuchnummer: FN B-51.835 D
@@ -39,7 +39,7 @@ UID-Nummer: ATU14644107
 Geschäftsführer: Michael Sonnek, Walter Stanek
 
 Beteiligungsverhältnisse der Gesellschafter: Michael Sonnek 50%, Walter Stanek 50%
-
+</p>
 
 
 <p>Unternehmensgegenstand: Tischlerei
@@ -53,7 +53,7 @@ Gewerbebehörde: Magistrat der Stadt Wien, Bezirkshauptmannschaft Oberpullendorf
 Verleihungsstaat: Österreich
 
 Gewerbe- und berufsrechtliche Vorschriften: GewO [(www.ris.bka.gv.at)](http://www.ris.bka.gv.at/)
-
+</p>
 
 
 
