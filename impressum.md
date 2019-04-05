@@ -4,7 +4,7 @@ title: Impressum
 permalink: /impressum/
 ---
 
-<p>Verantwortlich für den Inhalt dieser Website: Tischlerei Zeibich Ges.m.b.H.
+Verantwortlich für den Inhalt dieser Website: Tischlerei Zeibich Ges.m.b.H.
 
 
 
