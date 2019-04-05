@@ -41,7 +41,7 @@ Gewerbe- und berufsrechtliche Vorschriften: GewO <a href="http://www.ris.bka.gv.
 <br>
 
 
-## Haftungsausschluss:<br>
+## Haftungsausschluss<br>
 
 ### Inhalte des Online-Angebots<br>
 Die Tischlerei Zeibich Ges.m.b.H. übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der auf dieser Website bereitgestellten Informationen. Sollten Sie problematische oder rechtswidrige Inhalte auf dieser Website bemerken, bitten wir, diese an die im Impressum genannte Kontaktmöglichkeit  zu melden. Die Tischlerei Zeibich Ges.m.b.H. behält sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung vorübergehend oder endgültig einzustellen. 
