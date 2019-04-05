@@ -36,7 +36,7 @@ Kammerzugehörigkeit: WKO, Landesinnungen Wien und Burgenland<br>
 Standort der Gewerbeberechtigung: Wien, Oberpullendorf<br>
 Gewerbebehörde: Magistrat der Stadt Wien, Bezirkshauptmannschaft Oberpullendorf<br>
 Verleihungsstaat: Österreich<br>
-Gewerbe- und berufsrechtliche Vorschriften: GewO <a href="http://www.ris.bka.gv.at/" target=_blank>(www.ris.bka.gv.at)</a><br>
+Gewerbe- und berufsrechtliche Vorschriften: GewO http://www.ris.bka.gv.at/<br>
 </p>
 <br>
 
