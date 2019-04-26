@@ -38,12 +38,4 @@ Weiterswurde ein neues Kommunikationsprogramm und ein automatisches Zeiterfassun
 <p>Auch seit dem Standortwechsel nach Neutal wurde ständig in die Modernisierung und Automatisierung des Betriebes investiert.</p><br>
 
 <h1>Einblick in die automatisierte Produktion der Firma Zeibich in Neutal</h1>
-
- <div class="wrapper">
-<video width="100%" height="auto" controls preload="none">
-	<source src = "\assets\videos\zeibich.mp4" type="video/mp4">
-	Ihr Browser unterstützt diese Videoformat nicht
-</video>
-</div>
 <br>
-Hier können Sie sich das Video auch <a href="/assets/videos/zeibich_720.mp4" download>"herunterladen"
