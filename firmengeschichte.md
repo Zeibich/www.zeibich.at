@@ -36,6 +36,4 @@ Weiterswurde ein neues Kommunikationsprogramm und ein automatisches Zeiterfassun
 <p>2017 - Zukauf des Betriebsgeländes Induestriestraße 2</p><br>
 
 <p>Auch seit dem Standortwechsel nach Neutal wurde ständig in die Modernisierung und Automatisierung des Betriebes investiert.</p><br>
-
-<h1>Einblick in die automatisierte Produktion der Firma Zeibich in Neutal</h1>
 <br>
