@@ -94,7 +94,7 @@ permalink: /team/
 <div class="divTableRow">
 <div class="name">Gisela Stanek</div>
 <div class="bez">Assistenz der Geschäftsführung</div>
-<div class="divTableCell"><img src="/assets/pictures/people/anon.jpg" alt="Frau Stanek" vspace="10"></div>
+<div class="divTableCell"><img src="/assets/pictures/people/gstanek.jpg" alt="Frau Kantor" vspace="10"></div>
 <div class="divTableCell">Tel.:</div>
 <div class="divTableCell">Mobil: +43 664 854 49 24</div>
 <div class="divTableCell">E-Mail: gisela.stanek@zeibich.at</div>
