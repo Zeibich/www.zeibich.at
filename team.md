@@ -92,16 +92,6 @@ permalink: /team/
 </div>
 <div class="divTableBody" style="margin-top:20px">
 <div class="divTableRow">
-<div class="name">Gisela Stanek</div>
-<div class="bez">Assistenz der Geschäftsführung</div>
-<div class="divTableCell"><img src="/assets/pictures/people/gstanek.jpg" alt="Frau Kantor" vspace="10"></div>
-<div class="divTableCell">Tel.:</div>
-<div class="divTableCell">Mobil: +43 664 854 49 24</div>
-<div class="divTableCell">E-Mail: gisela.stanek@zeibich.at</div>
-</div>
-</div>
-<div class="divTableBody" style="margin-top:20px">
-<div class="divTableRow">
 <div class="name">Michael Sonnek</div>
 <div class="bez">Geschäftsführung Wien</div>
 <div class="divTableCell"><img src="/assets/pictures/people/sonnek.jpg" alt="Herr Sonnek" vspace="10"></div>
@@ -120,4 +110,3 @@ permalink: /team/
 </div>
 </div>
 </div>
-
