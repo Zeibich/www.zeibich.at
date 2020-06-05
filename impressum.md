@@ -27,7 +27,6 @@ Firmenbuchgericht: Handelsgericht Wien<br>
 Firmensitz: Seeböckgasse 39, 1160 Wien<br>
 UID-Nummer: ATU14644107<br>
 Geschäftsführer: Walter Stanek<br>
-Beteiligungsverhältnisse der Gesellschafter: Michael Sonnek 50%, Walter Stanek 50%
 </p>
 <br>
 
