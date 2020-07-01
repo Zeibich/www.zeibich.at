@@ -13,7 +13,7 @@ permalink: /team/
 <div class="divTable blueTable" style="margin-bottom:30px">
 <div class="sitz">
 <div class="divTableRow">
-<div class="standort">Geschäftsführung</div>
+<div class="standort">Geschäftsführer</div>
 </div>
 </div>
 <div class="divTableBody">
