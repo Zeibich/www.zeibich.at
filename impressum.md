@@ -22,8 +22,8 @@ E-Mail: office@zeibich.at<br>
 <br>
 
 <p>Firmenbuchnummer: FN 51835d<br>
-Firmenbuchgericht: Handelsgericht Wien<br>
-Firmensitz: Seeböckgasse 39, 1160 Wien<br>
+Firmenbuchgericht: Handelsgericht Eisenstadt<br>
+Firmensitz: Industriestrasse 3, A-7343 Neutal<br>
 UID-Nummer: ATU14644107<br>
 Geschäftsführer: Walter Stanek<br>
 </p>
