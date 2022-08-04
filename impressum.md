@@ -4,7 +4,7 @@ title: Impressum
 permalink: /impressum/
 ---
 
-Verantwortlich für den Inhalt dieser Website: Tischlerei Zeibich Gesellschft mbH
+Verantwortlich für den Inhalt dieser Website: Tischlerei Zeibich Gesellschaft mbH
 <br>
 
 <p>Informationspflicht gem § 5 ECG, § 15 UBG, § 63 GewO 1994<br>
@@ -12,11 +12,10 @@ Offenlegungspflicht gem § 25 MedienG<br>
 </p>
 <br>
 
-<p>Tischlerei Zeibich Gesellschft mbH<br>
+<p>Tischlerei Zeibich Gesellschaft mbH<br>
 Industriestrasse 3<br>
 A-7343 Neutal<br>
 Tel.: +43 1 486 36 49<br>
-Fax.: +43 1 486 36 49-22<br>
 E-Mail: office@zeibich.at<br>
 </p>
 <br>
