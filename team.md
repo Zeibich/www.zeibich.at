@@ -79,13 +79,19 @@ permalink: /team/
 <div class="divTableCell">E-Mail: helmuth.fischinger@zeibich.at</div>
 </div>
 </div>
-<div class="divTableBody" style="margin-top:20px">
-<div class="divTableRow">
-<div class="name">Thomas Poetzl</div>
-<div class="bez">Arbeitsvorbereitung und Verkauf</div>
-<div class="divTableCell"><img src="/assets/pictures/people/poetzl.jpg" alt="Herr Pötzl" vspace="10"></div>
-<div class="divTableCell">Mobil: +43 664 854 49 21</div>
-<div class="divTableCell">E-Mail: thomas.poetzl@zeibich.at</div>
-</div>
+
+[//]: # (<div class="divTableBody" style="margin-top:20px">)
+
+[//]: # (<div class="divTableRow">)
+
+[//]: # (<div class="name">Thomas Poetzl</div>)
+
+[//]: # (<div class="bez">Arbeitsvorbereitung und Verkauf</div>)
+
+[//]: # (<div class="divTableCell"><img src="/assets/pictures/people/poetzl.jpg" alt="Herr Pötzl" vspace="10"></div>)
+
+[//]: # (<div class="divTableCell">Mobil: +43 664 854 49 21</div>)
+
+[//]: # (<div class="divTableCell">E-Mail: thomas.poetzl@zeibich.at</div>)
 </div>
 </div>
